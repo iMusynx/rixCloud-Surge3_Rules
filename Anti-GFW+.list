@@ -117,7 +117,7 @@ DOMAIN-SUFFIX,xvideos.com,force-remote-dns
 DOMAIN-SUFFIX,yahoo.com,force-remote-dns
 
 DOMAIN,onedrive.live.com,force-remote-dns
-
+DOMAIN,zh.ifixit.com,force-remote-dns
 DOMAIN-KEYWORD,jav,force-remote-dns
 DOMAIN-KEYWORD,pinterest,force-remote-dns
 DOMAIN-KEYWORD,porn,force-remote-dns
